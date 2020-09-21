@@ -1,2 +1,2 @@
 # NN-Pattern-Recognition
- Repository for my graduate level neural network and pattern recognition course.
+ Smaller projects or assignments developed in this course will be uploaded here.
